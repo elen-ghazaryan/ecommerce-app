@@ -1,0 +1,302 @@
+[
+  {
+    "id": "1",
+    "name": "Wireless Headphones",
+    "description": "High-quality wireless headphones with noise-cancellation.",
+    "price": 99.99,
+    "category": "electronics",
+    "imageUrl": "https://i5.walmartimages.com/seo/VILINICE-Noise-Cancelling-Headphones-Wireless-Bluetooth-Over-Ear-Headphones-with-Microphone-Black-Q8_b994b99c-835f-42fc-8094-9f6be0f9273b.be59955399cdbd1c25011d4a4251ba9b.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF",
+    "inStock": true,
+    "quantity": 15
+  },
+  {
+    "id": "2",
+    "name": "Smart Watch",
+    "description": "Smart watch with heart rate monitor, GPS, and customizable watch faces.",
+    "price": 149.99,
+    "category": "electronics",
+    "imageUrl": "https://images-cdn.ubuy.co.in/653dca4638b3b6351c03b03e-smart-watch-for-android-and-iphone.jpg",
+    "inStock": true,
+    "quantity": 0
+  },
+  {
+    "id": "3",
+    "name": "Bluetooth Speaker",
+    "description": "Portable Bluetooth speaker with excellent sound quality.",
+    "price": 59.99,
+    "category": "electronics",
+    "imageUrl": "https://m.media-amazon.com/images/I/718yxonHN8L._UF894,1000_QL80_.jpg",
+    "inStock": true,
+    "quantity": 11
+  },
+  {
+    "id": "4",
+    "name": "HD Webcam",
+    "description": "1080p HD webcam with built-in microphone for video calls.",
+    "price": 49.99,
+    "category": "electronics",
+    "imageUrl": "https://resource.logitech.com/b_white/content/dam/logitech/en/products/webcams/brio-100/gallery/brio-100-gallery-graphite-1.png",
+    "inStock": true,
+    "quantity": 20
+  },
+  {
+    "id": "5",
+    "name": "Gaming Laptop",
+    "description": "High-performance gaming laptop with RTX 4060 GPU and 16GB RAM.",
+    "price": 1299.99,
+    "category": "computers",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ02xnLy_t6Y7Fh0tzky-OV1HResXAGsmHi7GAuB9Ud9p1wxdc5QqpzH3Wt560REIGy-cw&usqp=CAU",
+    "inStock": true,
+    "quantity": 0
+  },
+  {
+    "id": "6",
+    "name": "Ultrabook Laptop",
+    "description": "Lightweight laptop with 512GB SSD and 8GB RAM.",
+    "price": 899.99,
+    "category": "computers",
+    "imageUrl": "https://image.made-in-china.com/202f0j00msiVnyJGeLoF/Slim-Design-Ultrabook-Laptop-FHD-IPS-1920-1080-13-3-Inch-Window-10-Laptop-Computer-5000mAh-Support-Ngff-Extend.webp",
+    "inStock": true,
+    "quantity": 11
+  },
+  {
+    "id": "7",
+    "name": "Desktop PC",
+    "description": "Powerful desktop computer for gaming and office work.",
+    "price": 1099.99,
+    "category": "computers",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp0Fe2FvAoXgJLCjKjv2Suo2W5nnEfkC7alQ&s",
+    "inStock": true,
+    "quantity": 9
+  },
+  {
+    "id": "8",
+    "name": "Mechanical Keyboard",
+    "description": "RGB mechanical keyboard with tactile switches.",
+    "price": 89.99,
+    "category": "accessories",
+    "imageUrl": "https://m.media-amazon.com/images/I/61P7MvyRbUL.jpg",
+    "inStock": true,
+    "quantity": 20
+  },
+  {
+    "id": "9",
+    "name": "Wireless Mouse",
+    "description": "Ergonomic wireless mouse with adjustable DPI.",
+    "price": 39.99,
+    "category": "accessories",
+    "imageUrl": "https://us.maxgaming.com/bilder/artiklar/zoom/31951_1.jpg?m=1725620222",
+    "inStock": true,
+    "quantity": 34
+  },
+  {
+    "id": "10",
+    "name": "USB-C Hub",
+    "description": "Multi-port USB-C hub for connecting multiple devices.",
+    "price": 49.99,
+    "category": "accessories",
+    "imageUrl": "https://plugable.com/cdn/shop/files/main_ori_0a84a6f9-0f78-48ba-9222-977955e1f3d4.jpg?v=1718235273",
+    "inStock": true,
+    "quantity": 25
+  },
+  {
+    "id": "11",
+    "name": "External SSD 1TB",
+    "description": "Portable 1TB SSD with USB-C connection for fast data transfer.",
+    "price": 129.99,
+    "category": "accessories",
+    "imageUrl": "https://itcare.com/cdn/shop/files/buy-sandisk-extreme-portable-ssd-1tb-usb-32-gen-2-type-c-external-ssd-solid-state-drive-wibi-want-it-buy-it-kuwait-254579_2048x2048_6eba5e8c-7782-4b73-b4e9-3ccde2618446.webp?v=1713369823",
+    "inStock": true,
+    "quantity": 12
+  },
+  {
+    "id": "12",
+    "name": "Wi-Fi 6 Router",
+    "description": "High-speed dual-band Wi-Fi 6 router with wide coverage.",
+    "price": 199.99,
+    "category": "networking",
+    "imageUrl": "https://www.dlink.com.ph/wp-content/uploads/2020/07/DIR-X5460-2.jpg",
+    "inStock": true,
+    "quantity": 9
+  },
+  {
+    "id": "13",
+    "name": "Ethernet Switch",
+    "description": "8-port gigabit ethernet switch for home or office.",
+    "price": 49.99,
+    "category": "networking",
+    "imageUrl": "https://lanberg.eu/product-images/Z33051_176670.jpg",
+    "inStock": true,
+    "quantity": 15
+  },
+  {
+    "id": "14",
+    "name": "Network Cable 10m",
+    "description": "Cat6 ethernet cable for high-speed internet connections.",
+    "price": 9.99,
+    "category": "networking",
+    "imageUrl": "https://m.media-amazon.com/images/I/71UnLgzNLmL.jpg",
+    "inStock": true,
+    "quantity": 47
+  },
+  {
+    "id": "15",
+    "name": "Wi-Fi Range Extender",
+    "description": "Boost your Wi-Fi signal with this easy-to-install extender.",
+    "price": 59.99,
+    "category": "networking",
+    "imageUrl": "https://eldorado.am/media/catalog/product/cache/b636eac9f5e866652b5cbe8cee86d97c/x/i/xiaomi_mi_wi-fi_range_extender_pro_r03_dvb4235gl.jpg",
+    "inStock": true,
+    "quantity": 20
+  },
+  {
+    "id": "16",
+    "name": "Noise-Cancelling Earbuds",
+    "description": "Compact earbuds with active noise cancellation.",
+    "price": 79.99,
+    "category": "electronics",
+    "imageUrl": "https://m.media-amazon.com/images/I/513NQdmdMXL._UF894,1000_QL80_.jpg",
+    "inStock": true,
+    "quantity": 18
+  },
+  {
+    "id": "17",
+    "name": "Portable Charger 10000mAh",
+    "description": "Compact power bank for charging devices on the go.",
+    "price": 29.99,
+    "category": "electronics",
+    "imageUrl": "https://m.media-amazon.com/images/I/61CPshQ2aGL.jpg",
+    "inStock": true,
+    "quantity": 39
+  },
+  {
+    "id": "18",
+    "name": "Gaming Desktop PC",
+    "description": "High-end desktop for gaming with RTX 4070 GPU and 32GB RAM.",
+    "price": 1999.99,
+    "category": "computers",
+    "imageUrl": "https://www.hp.com/content/dam/digitnav/menu/aug_2025/desktops-for-gaming%402x.jpg",
+    "inStock": true,
+    "quantity": 1
+  },
+  {
+    "id": "19",
+    "name": "All-in-One PC",
+    "description": "Space-saving all-in-one desktop computer with 24-inch display.",
+    "price": 1099.99,
+    "category": "computers",
+    "imageUrl": "https://eldorado.am/media/catalog/product/cache/f0e094ac5035e0e438002794916c32fd/u/n/untitled-2.png",
+    "inStock": true,
+    "quantity": 7
+  },
+  {
+    "id": "20",
+    "name": "Laptop Cooling Pad",
+    "description": "Keep your laptop cool during heavy usage with this cooling pad.",
+    "price": 29.99,
+    "category": "accessories",
+    "imageUrl": "https://store.trusthavensolution.com/storage/images/product-jet-black_1699254937.jpg",
+    "inStock": true,
+    "quantity": 30
+  },
+  {
+    "id": "21",
+    "name": "USB Flash Drive 64GB",
+    "description": "High-speed USB 3.0 flash drive for storing files.",
+    "price": 19.99,
+    "category": "accessories",
+    "imageUrl": "https://www.picstop.co.uk/user/products/large/sdcz50_5fangle_4_1.jpg",
+    "inStock": true,
+    "quantity": 45
+  },
+  {
+    "id": "22",
+    "name": "Smartphone",
+    "description": "Latest model smartphone with 128GB storage and dual cameras.",
+    "price": 699.99,
+    "category": "electronics",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBJqG1Xl2vgbXcsXeqyaeNfYC_K3WHngID9A&s",
+    "inStock": true,
+    "quantity": 20
+  },
+  {
+    "id": "23",
+    "name": "Tablet",
+    "description": "10-inch tablet with high-resolution display and long battery life.",
+    "price": 399.99,
+    "category": "electronics",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYC9lQV8FBTauviAK_BntKM-wBBwTGVqrIvA&s",
+    "inStock": true,
+    "quantity": 15
+  },
+  {
+    "id": "24",
+    "name": "Laptop Stand",
+    "description": "Adjustable laptop stand for ergonomic workspace setup.",
+    "price": 49.99,
+    "category": "accessories",
+    "imageUrl": "https://m.media-amazon.com/images/I/71cOnHXOg9L.jpg",
+    "inStock": true,
+    "quantity": 25
+  },
+  {
+    "id": "25",
+    "name": "Network Attached Storage (NAS)",
+    "description": "2-bay NAS for storing and sharing files across network.",
+    "price": 249.99,
+    "category": "networking",
+    "imageUrl": "https://5.imimg.com/data5/QC/UW/TQ/SELLER-79058348/wd-16-tb-my-cloud-ex4100-expert-series-4-bay-network-attached-storage-500x500.jpg",
+    "inStock": true,
+    "quantity": 12
+  },
+  {
+    "id": "26",
+    "name": "HD Monitor 27-inch",
+    "description": "27-inch HD monitor with thin bezel and adjustable stand.",
+    "price": 229.99,
+    "category": "computers",
+    "imageUrl": "https://i5.walmartimages.com/seo/HP-27-IPS-Full-HD-1920-x-1080-Micro-edge-Monitor-HDMI-VGA-60hz-5ms-27M_8dced38f-bacb-4ce1-ab7a-57f10921e07a_1.2f94685b5c9826a7affc4f55807bd6f4.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF",
+    "inStock": true,
+    "quantity": 14
+  },
+  {
+    "id": "27",
+    "name": "Gaming Headset",
+    "description": "Over-ear gaming headset with surround sound and microphone.",
+    "price": 79.99,
+    "category": "electronics",
+    "imageUrl": "https://www.euronics.lv/UserFiles/Products/Images/342291-514844-medium.png",
+    "inStock": true,
+    "quantity": 18
+  },
+  {
+    "id": "28",
+    "name": "Portable Router",
+    "description": "Compact portable router for travel and secure connections.",
+    "price": 69.99,
+    "category": "networking",
+    "imageUrl": "https://m.media-amazon.com/images/I/51RsvppUcyL.jpg",
+    "inStock": true,
+    "quantity": 22
+  },
+  {
+    "id": "29",
+    "name": "Webcam Cover",
+    "description": "Privacy cover for your laptop or desktop webcam.",
+    "price": 4.99,
+    "category": "accessories",
+    "imageUrl": "https://m.media-amazon.com/images/I/61oWYr8o-iL._UF1000,1000_QL80_.jpg",
+    "inStock": true,
+    "quantity": 100
+  },
+  {
+    "id": "30",
+    "name": "Surge Protector Power Strip",
+    "description": "6-outlet surge protector with USB ports to protect your devices.",
+    "price": 29.99,
+    "category": "accessories",
+    "imageUrl": "https://m.media-amazon.com/images/I/710DLDf3ZQL.jpg",
+    "inStock": true,
+    "quantity": 35
+  }
+]

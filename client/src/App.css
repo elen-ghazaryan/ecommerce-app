@@ -1,0 +1,12 @@
+.main-section {
+    padding: 40px;
+    background-color: rgb(27, 27, 27);
+    display: grid;
+    grid-template-columns: 2fr 1fr; 
+    padding: 20px;
+}
+
+/* If cart closed, ProductList will take full width */
+.main-section > :only-child {
+  grid-column: 1 / -1;
+}

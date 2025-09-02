@@ -1,0 +1,152 @@
+.order-history {
+  max-width: 800px;
+  margin: 2rem auto;
+  font-family: Arial, sans-serif;
+  color: #333;
+}
+
+.order-history h2 {
+  text-align: center;
+  margin-bottom: 1.5rem;
+  color: #eeeaea;
+}
+
+.order-card {
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+  background-color: #fff;
+  transition: transform 0.2s;
+}
+
+.order-card:hover {
+  transform: translateY(-3px);
+}
+
+.order-card h3 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+  color: #070758;
+}
+
+.order-card p {
+  margin: 0.3rem 0;
+  font-size: 0.95rem;
+}
+
+.order-card ul {
+  list-style: none;
+  padding-left: 0;
+  margin: 0.5rem 0;
+}
+
+.order-card ul li {
+  padding: 0.3rem 0;
+  border-bottom: 1px solid #eee;
+}
+
+.order-card ul li:last-child {
+  border-bottom: none;
+}
+
+.order-card .total {
+  font-weight: bold;
+  margin-top: 0.5rem;
+}
+
+.order-card .shipping {
+  font-style: italic;
+  color: #555;
+  margin-top: 0.5rem;
+}
+
+.empty-history {
+  font-family: "Montserrat", sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 3rem 0;
+  font-size: 2rem;
+  font-weight: 500;
+  color: white;
+}
+
+/* ----------------------------
+        RESPONSIVE STYLES
+---------------------------- */
+
+/* Tablets (max-width: 1024px) */
+@media (max-width: 1024px) {
+  .order-history {
+    max-width: 90%;
+  }
+
+  .order-card {
+    padding: 1.2rem;
+  }
+
+  .order-history h2 {
+    font-size: 1.8rem;
+  }
+}
+
+/* Mobile devices (max-width: 768px) */
+@media (max-width: 768px) {
+  .order-history {
+    max-width: 95%;
+  }
+
+  .order-card {
+    padding: 1rem;
+  }
+
+  .order-card h3 {
+    font-size: 1.1rem;
+  }
+
+  .order-card p,
+  .order-card ul li {
+    font-size: 0.9rem;
+  }
+
+  .order-history h2 {
+    font-size: 1.5rem;
+  }
+
+  .empty-history {
+    font-size: 1.5rem;
+    text-align: center;
+    margin: 2rem 0;
+  }
+}
+
+/* Small mobile devices (max-width: 480px) */
+@media (max-width: 480px) {
+  .order-history {
+    max-width: 100%;
+    padding: 0 0.5rem;
+  }
+
+  .order-card {
+    padding: 0.8rem;
+  }
+
+  .order-card h3 {
+    font-size: 1rem;
+  }
+
+  .order-card p,
+  .order-card ul li {
+    font-size: 0.85rem;
+  }
+
+  .order-history h2 {
+    font-size: 1.3rem;
+  }
+
+  .empty-history {
+    font-size: 1.2rem;
+  }
+}

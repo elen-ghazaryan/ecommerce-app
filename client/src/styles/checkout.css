@@ -1,0 +1,130 @@
+.checkout-form {
+  max-width: 500px;
+  margin: 2rem auto;
+  padding: 2rem;
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.1);
+}
+
+.checkout-form h2 {
+  text-align: center;
+  font-size: 1.8rem;
+  margin-bottom: 1.5rem;
+  color: #222;
+}
+
+.checkout-form input {
+  width: 100%;
+  padding: 12px;
+  margin: 0.6rem 0;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-size: 1rem;
+  transition: border 0.3s ease;
+}
+
+.checkout-form input:focus {
+  border-color: #0a294b;
+  outline: none;
+}
+
+.checkout-form button {
+  width: 100%;
+  padding: 14px;
+  margin-top: 1rem;
+  font-size: 1.1rem;
+  background: #0e3258;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.checkout-form button:hover {
+  background: #02101f;
+}
+
+/* Success message */
+.order-success {
+  max-width: 600px;
+  margin: 2rem auto;
+  padding: 2rem;
+  background: #f9fff9;
+  border: 1px solid #c9eac9;
+  border-radius: 12px;
+  text-align: center;
+}
+
+.order-success h2 {
+  color: #2d8a2d;
+}
+
+
+.order-success {
+  max-width: 600px;
+  margin: 2rem auto;
+  padding: 2rem;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  background-color: #fdfdfd;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+  font-family: Arial, sans-serif;
+}
+
+.order-success h2 {
+  text-align: center;
+  color: #246828; 
+  margin-bottom: 1.5rem;
+}
+
+.order-success p {
+  font-size: 1rem;
+  margin: 0.5rem 0;
+}
+
+.order-success h3 {
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+  font-size: 1.1rem;
+  color: #333;
+}
+
+.order-success ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0 0 1rem 0;
+}
+
+.order-success li {
+  padding: 0.5rem 0;
+  border-bottom: 1px solid #eee;
+  display: flex;
+  justify-content: space-between;
+}
+
+.order-success li:last-child {
+  border-bottom: none;
+}
+
+.order-success strong {
+  font-weight: bold;
+}
+
+.order-success button {
+  display: block;
+  margin: 1rem auto 0;
+  padding: 0.75rem 2rem;
+  background-color: #262163;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.order-success button:hover {
+  background-color: #31308b;
+}

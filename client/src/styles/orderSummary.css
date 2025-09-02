@@ -1,0 +1,52 @@
+.order-summary {
+  max-width: 500px;
+  margin: 2rem auto;
+  padding: 1.5rem;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  background-color: #f9f9f9;
+  font-family: Arial, sans-serif;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+}
+
+.order-summary h2 {
+  text-align: center;
+  margin-bottom: 1rem;
+  color: #333;
+}
+
+.order-summary ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0 0 1rem 0;
+}
+
+.order-summary li {
+  display: flex;
+  justify-content: space-between;
+  padding: 0.5rem 0;
+  border-bottom: 1px solid #eee;
+}
+
+.order-summary li:last-child {
+  border-bottom: none;
+}
+
+.order-summary p {
+  font-weight: bold;
+  text-align: right;
+  margin-top: 1rem;
+  color: #222;
+}
+
+.empty {
+  font-family: "Montserrat", sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 3rem 0;
+  font-size: 2rem;
+  font-weight: 500;
+  color: white;
+}
+

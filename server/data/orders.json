@@ -1,0 +1,118 @@
+[
+  {
+    "id": "1",
+    "userId": "7f7f7921-97af-41fd-ab6b-45f87a4d632c",
+    "items": [
+      {
+        "productId": "5",
+        "productName": "Gaming Laptop",
+        "quantity": 6,
+        "price": 1299.99
+      },
+      {
+        "productId": "1",
+        "productName": "Wireless Headphones",
+        "quantity": 2,
+        "price": 99.99
+      }
+    ],
+    "totalAmount": 7999.92,
+    "status": "pending",
+    "orderDate": "2025-09-02T09:15:16.380Z",
+    "shippingAddress": {
+      "street": "Teryan",
+      "city": "Yerevan",
+      "zipCode": "991"
+    }
+  },
+  {
+    "id": "2",
+    "userId": "7f7f7921-97af-41fd-ab6b-45f87a4d632c",
+    "items": [
+      {
+        "productId": "2",
+        "productName": "Smart Watch",
+        "quantity": 12,
+        "price": 149.99
+      },
+      {
+        "productId": "9",
+        "productName": "Wireless Mouse",
+        "quantity": 1,
+        "price": 39.99
+      },
+      {
+        "productId": "12",
+        "productName": "Wi-Fi 6 Router",
+        "quantity": 1,
+        "price": 199.99
+      },
+      {
+        "productId": "14",
+        "productName": "Network Cable 10m",
+        "quantity": 3,
+        "price": 9.99
+      },
+      {
+        "productId": "17",
+        "productName": "Portable Charger 10000mAh",
+        "quantity": 1,
+        "price": 29.99
+      }
+    ],
+    "totalAmount": 2099.8199999999997,
+    "status": "pending",
+    "orderDate": "2025-09-02T09:29:59.612Z",
+    "shippingAddress": {
+      "street": "Spandaryan",
+      "city": "Hrazdan",
+      "zipCode": "570"
+    }
+  },
+  {
+    "id": "3",
+    "userId": "7f7f7921-97af-41fd-ab6b-45f87a4d632c",
+    "items": [
+      {
+        "productId": "1",
+        "productName": "Wireless Headphones",
+        "quantity": 1,
+        "price": 99.99
+      }
+    ],
+    "totalAmount": 99.99,
+    "status": "pending",
+    "orderDate": "2025-09-02T09:43:26.550Z",
+    "shippingAddress": {
+      "street": "Saryan",
+      "city": "Yerevan",
+      "zipCode": "232"
+    }
+  },
+  {
+    "id": "4",
+    "userId": "7f7f7921-97af-41fd-ab6b-45f87a4d632c",
+    "items": [
+      {
+        "productId": "1",
+        "productName": "Wireless Headphones",
+        "quantity": 1,
+        "price": 99.99
+      },
+      {
+        "productId": "3",
+        "productName": "Bluetooth Speaker",
+        "quantity": 1,
+        "price": 59.99
+      }
+    ],
+    "totalAmount": 159.98,
+    "status": "pending",
+    "orderDate": "2025-09-02T09:54:06.199Z",
+    "shippingAddress": {
+      "street": "Azatutyan",
+      "city": "Yerevan",
+      "zipCode": "78"
+    }
+  }
+]

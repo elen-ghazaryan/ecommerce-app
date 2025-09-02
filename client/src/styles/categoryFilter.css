@@ -1,0 +1,50 @@
+.category-filter {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin: 1rem 0;
+  font-family: Arial, sans-serif;
+  margin-left: 20px;
+  margin-right: 20px;
+  border-bottom: 2px solid #827b7beb;
+  padding-bottom: 16px;
+  position: relative;
+}
+
+.category-filter label {
+  font-weight: 600;
+  font-size: 1rem;
+  font-family: "Montserrat", sans-serif;
+  color: white;
+}
+
+.category-filter select {
+  padding: 0.6rem 0.7rem;
+  border: 1px solid #ccc;
+  border-radius: 13px;
+  background-color: #fff;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: border-color 0.2s, box-shadow 0.2s;
+  font-family: "Montserrat", sans-serif;
+}
+
+.category-filter select:hover {
+  border-color: #aca9a9;
+}
+
+.category-filter select:focus {
+  outline: none;
+  border-color: #2b2a2a;
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.2);
+}
+.category-filter {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem; 
+}
+
+option {
+    border-radius: 13px;
+}
+

@@ -1,0 +1,141 @@
+.footer {
+  background-color: #1f1f1f;
+  color: #fff;
+  padding: 2rem 1rem;
+  font-family: "Montserrat", sans-serif;
+  padding-bottom: 5.2rem;
+}
+
+.footer-content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 2rem;
+  max-width: 1400px;
+  padding: 0 20px;
+  margin: 0 auto;
+  align-items: center;
+}
+
+.footer-contact,
+.footer-about {
+  flex: 1 1 300px; /* grow, shrink, base width */
+}
+
+.footer-contact p {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 0.7rem;
+  font-size: 0.95rem;
+  font-weight: 600;
+}
+
+.footer-about h4 {
+  margin-bottom: 0.8rem;
+  font-size: 1.2rem;
+  color: #a01a1a;
+}
+
+.footer-about p {
+  font-size: 0.95rem;
+  line-height: 1.5;
+  margin-bottom: 1rem;
+}
+
+.footer-socials {
+  display: flex;
+  gap: 1rem;
+}
+
+.footer-socials a {
+  color: #fff;
+  font-size: 1.5rem;
+  transition: color 0.3s;
+}
+
+.footer-socials a:hover {
+  color: #a01a1a;;
+}
+
+.footer-bottom {
+  text-align: center;
+  margin-top: 2rem;
+  font-size: 0.85rem;
+  border-top: 1px solid #333;
+  padding-top: 1rem;
+  color: #bbb;
+}
+
+
+/* ----------------------------
+        RESPONSIVE STYLES
+---------------------------- */
+
+/* Tablets (max-width: 1024px) */
+@media (max-width: 1024px) {
+  .footer-about h4 {
+    font-size: 1.1rem;
+  }
+
+  .footer-contact p,
+  .footer-about p {
+    font-size: 0.9rem;
+  }
+
+  .footer-socials a {
+    font-size: 1.3rem;
+  }
+}
+
+/* Mobile devices (max-width: 768px) */
+@media (max-width: 768px) {
+  .footer-content {
+    flex-direction: column;
+    gap: 1.5rem;
+    align-items: flex-start;
+  }
+
+  .footer-contact,
+  .footer-about {
+    flex: 1 1 100%;
+  }
+
+  .footer-contact p,
+  .footer-about p {
+    font-size: 0.85rem;
+  }
+
+  .footer-about h4 {
+    font-size: 1rem;
+  }
+
+  .footer-socials {
+    justify-content: flex-start;
+  }
+}
+
+/* Small mobile devices (max-width: 480px) */
+@media (max-width: 480px) {
+  .footer {
+    padding: 1.5rem 0.5rem;
+    padding-bottom: 4rem;
+  }
+
+  .footer-contact p,
+  .footer-about p {
+    font-size: 0.8rem;
+  }
+
+  .footer-about h4 {
+    font-size: 0.95rem;
+  }
+
+  .footer-socials a {
+    font-size: 1.2rem;
+  }
+
+  .footer-bottom {
+    font-size: 0.75rem;
+  }
+}

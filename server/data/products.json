@@ -17,7 +17,7 @@
     "category": "electronics",
     "imageUrl": "https://images-cdn.ubuy.co.in/653dca4638b3b6351c03b03e-smart-watch-for-android-and-iphone.jpg",
     "inStock": true,
-    "quantity": 0
+    "quantity": 5
   },
   {
     "id": "3",
@@ -47,7 +47,7 @@
     "category": "computers",
     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ02xnLy_t6Y7Fh0tzky-OV1HResXAGsmHi7GAuB9Ud9p1wxdc5QqpzH3Wt560REIGy-cw&usqp=CAU",
     "inStock": true,
-    "quantity": 0
+    "quantity": 10
   },
   {
     "id": "6",
@@ -77,7 +77,7 @@
     "category": "accessories",
     "imageUrl": "https://m.media-amazon.com/images/I/61P7MvyRbUL.jpg",
     "inStock": true,
-    "quantity": 20
+    "quantity": 19
   },
   {
     "id": "9",
@@ -87,7 +87,7 @@
     "category": "accessories",
     "imageUrl": "https://us.maxgaming.com/bilder/artiklar/zoom/31951_1.jpg?m=1725620222",
     "inStock": true,
-    "quantity": 34
+    "quantity": 33
   },
   {
     "id": "10",
@@ -177,7 +177,7 @@
     "category": "computers",
     "imageUrl": "https://www.hp.com/content/dam/digitnav/menu/aug_2025/desktops-for-gaming%402x.jpg",
     "inStock": true,
-    "quantity": 1
+    "quantity": 3
   },
   {
     "id": "19",

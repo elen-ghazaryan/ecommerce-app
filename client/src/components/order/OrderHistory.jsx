@@ -20,7 +20,7 @@ export default function OrderHistory() {
       <h2>Order History</h2>
       {orders.map(order => (
         <div key={order.id} className="order-card">
-          <h3>Order #{order.id} ({order.status})</h3>
+          <h3>Order ({order.status})</h3>
           <p>Date: {new Date(order.orderDate).toLocaleString()}</p>
           <ul>
             {order.items.map(i => (

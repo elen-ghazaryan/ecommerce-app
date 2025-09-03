@@ -48,7 +48,7 @@ export default function Checkout() {
   return (
     <div className="order-success">
       <h2>Order placed successfully!</h2>
-      <p>Your order #{order.id} is {order.status}.</p>
+      <p>Your order is {order.status}.</p>
 
       <h3>Items:</h3>
       <ul>
